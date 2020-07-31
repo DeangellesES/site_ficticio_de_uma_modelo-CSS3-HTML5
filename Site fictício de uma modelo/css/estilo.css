@@ -4,7 +4,7 @@ body{
 }
 
 #principal {
-	width: 900px;
+	margin: 0px 130px;
 }
 
 #menu {
@@ -34,10 +34,6 @@ a {
 
 .img-campanha {
 	border: 10px solid #c3c3ae;
-}
-
-.ajuste{
-	padding: 80px;
 }
 
 h1 {
