@@ -1,4 +1,3 @@
-# Site_ficticio_de_uma_modelo-CSS3-HTML5
 Site fictício de uma modelo feito durante um curso de CSS3 e HTML5
 
 Layout da página inicial
